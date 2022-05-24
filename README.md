@@ -1,2 +1,7 @@
-# 10-legion-del-mal
-10-legion-del-mal
+# Legion del Mal
+Un repositorio para conquistar el mundo
+
+Básicamente aprenderemos más sobre Git y GitHub con este proyecto
+
+
+# JAvier 
